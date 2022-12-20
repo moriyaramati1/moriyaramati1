@@ -34,11 +34,16 @@
 
 </div>
 
+ <div>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moriyaramati1&" alt="moriyaramati1" alt="moriyaramati1">
+
+</div>
+
 </div>
 
 </body>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moriyaramati1&" alt="moriyaramati1" /></p>
 
 
 
