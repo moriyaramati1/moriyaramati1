@@ -24,7 +24,7 @@
 
 <div>
 
-<img align="right" img src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif" width=450>
+<img align="right" img src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif" width=300>
 
 </div>
 
