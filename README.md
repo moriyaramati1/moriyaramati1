@@ -36,7 +36,7 @@
 
  <div>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moriyaramati1&" alt="moriyaramati1" alt="moriyaramati1" width=600>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moriyaramati1&" alt="moriyaramati1" alt="moriyaramati1" width=400>
 
 </div>
 
