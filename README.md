@@ -24,7 +24,7 @@
 
 <div>
 
-<img align="right" img src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif" width=300>
+<img align="right" img src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif" width=450>
 
 </div>
 
@@ -36,7 +36,7 @@
 
  <div>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moriyaramati1&" alt="moriyaramati1" alt="moriyaramati1">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moriyaramati1&" alt="moriyaramati1" alt="moriyaramati1" width=300>
 
 </div>
 
